@@ -27,3 +27,9 @@ Adjust the number of generations and other parameters in the code to achieve the
 Close the window when the program finishes executing.
 
 link to the report- https://drive.google.com/drive/u/1/my-drive
+
+
+# Output
+
+![WhatsApp Image 2023-11-06 at 10 55 15 PM](https://github.com/deep8716/21052752_AI/assets/150062527/ce03da04-fcbd-4da8-b70d-33bca5fae618)
+![WhatsApp Image 2023-11-06 at 10 55 15 PM](https://github.com/deep8716/21052752_AI/assets/150062527/c64c26a0-0189-45f4-82b3-2fb00f435182)
